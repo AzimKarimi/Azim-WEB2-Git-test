@@ -1,9 +1,9 @@
 .jumbotron{
     background-color: #6E3F19;
     width:100%;
-    height: 250px;
+    height: 500px;
 }
-.jumbotron h1,h3 {
+.jumbotron h1,h3,p {
     color: rgb(16, 0, 73);
     text-align: center;
     padding-top: 30px;
